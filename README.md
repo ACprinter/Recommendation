@@ -1,5 +1,10 @@
 # Recommendation
 学习项目
+git 使用
+git init
+git add xxx 
+git commit -m "xxx"
+git push master branch
 
 ## ItemCF
 基于物品的协同过滤
